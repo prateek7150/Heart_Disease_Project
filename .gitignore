@@ -1,0 +1,7 @@
+__pycachel__/
+*.pkl
+*.log
+.env
+.DS_Store
+.vscode/
+.idea/
